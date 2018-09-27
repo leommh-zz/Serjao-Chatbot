@@ -1,5 +1,5 @@
 /**
- * Author: leonardo Morini
+ * Author: Leonardo Morini
  * Github: http://github.com/leommh
  * Project: Serjao Chatbot 
 _    ___    ___    ___    ___            
